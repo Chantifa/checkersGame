@@ -6,3 +6,4 @@
 * Florian Siess
 * Gaspar Chapatte
 * mit Hauptunterstützung von Theologos Baxevanos
+"# checkersgame" 

@@ -3,7 +3,4 @@
 **Semesterarbeit Checkers Game**
 
 * Chantale Gihara
-* Florian Siess
-* Gaspar Chapatte
-* mit Hauptunterstützung von Theologos Baxevanos
 "# checkersgame" 
